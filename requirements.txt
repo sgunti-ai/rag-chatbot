@@ -1,0 +1,4 @@
+Flask
+pinecone-client
+sentence-transformers
+openai
